@@ -1,4 +1,4 @@
-### Hello! I am <a href="https://4x04.cf">hexa</a>
+### Hello! I am <a href="https://hexiaq.cf">hexa</a>
 
 Languages I work with:
 <ul>
@@ -9,5 +9,5 @@ Languages I work with:
 </ul>
 
 Discord: 
-hexa69#7019
+hexa#7019
 
