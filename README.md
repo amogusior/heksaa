@@ -9,5 +9,5 @@ Languages I work with:
 </ul>
 
 Discord: 
-hexa#7019
+hexa#0274
 
