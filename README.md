@@ -1,4 +1,4 @@
-### hi!
+### hi! im hexa
 - from Poland
 - artist, designer and programmer.
 
