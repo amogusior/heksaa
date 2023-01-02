@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/boy-black?style=for-the-badge)
 ![](https://img.shields.io/badge/he/him/his-blueviolet?style=for-the-badge)
 [![](https://img.shields.io/badge/website-black?logo=internetexplorer&logoColor=blueviolet&style=for-the-badge)](https://hexiaq.cf)
+![](https://img.shields.io/badge/13yo-blueviolet?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/pasek.png" width="100%">
 
