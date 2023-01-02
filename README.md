@@ -1,9 +1,8 @@
-### hi! im ![hexa](https://hexiaq.cf)
-## i like:
+## hi! im ![hexa](https://hexiaq.cf) ![](https://img.shields.io/badge/arch-btw-blue?logo=archlinux&logoColor=blue)
+### i like:
 ![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
 ![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/coding-black?logo=visualstudiocode&logoColor=blue)
-![](https://img.shields.io/badge/arch-btw-blue?logo=archlinux&logoColor=blue)
 
 ### i know:
 ![](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=orange)
