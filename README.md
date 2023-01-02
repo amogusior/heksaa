@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/he/him/his-blueviolet?style=for-the-badge)
 [![](https://img.shields.io/badge/website-black?logo=internetexplorer&logoColor=blueviolet&style=for-the-badge)](https://hexiaq.cf)
 
+<img src="https://raw.githubusercontent.com/heksaa/heksaa/main/pasek.png" width="100%">
+
 ### i like:
 ![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
 ![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
