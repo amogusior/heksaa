@@ -1,8 +1,10 @@
 ### hi! im hexa
 - from poland
-- artist, designer and programmer.
+![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
+![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
+![](https://img.shields.io/badge/coding-black?logo=visualstudiocode&logoColor=blue)
 - [\[website\]](https://hexiaq.cf)  [\[telegram\]](https://t.me/hexiaq) [\[discord\]](https://discord.com/users/885893807235809280)
-- arch linux user
+![](https://img.shields.io/badge/arch-btw-black?logo=archlinux&logoColor=blue)
 
 ### i know:
 ![](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=orange)
