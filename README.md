@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/-HTML-black?logo=html5&logoColor=blue&style=for-the-badge)
 ![](https://img.shields.io/badge/bash-black?logo=gnubash&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/batch-black?logo=windows&logoColor=blue&style=for-the-badge)
+![](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/Sublime_Text-black?logo=sublimetext&logoColor=blueviolet&style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/pasek.png" width="100%">
 
