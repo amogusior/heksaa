@@ -1,5 +1,4 @@
-### hi! im hexa
-- from poland
+### hi! im ![hexa](https://hexiaq.cf)
 
 ![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
 ![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
