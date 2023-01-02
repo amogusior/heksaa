@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode&logoColor=blue&style=for-the-badge)
 ![](https://img.shields.io/badge/Sublime_Text-black?logo=sublimetext&logoColor=orange&style=for-the-badge)
 ![](https://img.shields.io/badge/Vim-black?logo=vim&logoColor=green&style=for-the-badge)
+![](https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop&logoColor=blue&style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/pasek.png" width="100%">
 
