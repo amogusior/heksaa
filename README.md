@@ -17,7 +17,7 @@
 
 ### i know:
 ![](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=orange&style=for-the-badge)
-![](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
+![](https://img.shields.io/badge/JavaScript_Basics-black?logo=javascript&logoColor=yellow&style=for-the-badge)
 ![](https://img.shields.io/badge/-HTML-black?logo=html5&logoColor=blue&style=for-the-badge)
 ![](https://img.shields.io/badge/bash-black?logo=gnubash&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/batch-black?logo=windows&logoColor=blue&style=for-the-badge)
