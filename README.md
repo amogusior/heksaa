@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
 ![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
 ![](https://img.shields.io/badge/coding-black?logo=visualstudiocode&logoColor=blue)
-
 ![](https://img.shields.io/badge/arch-btw-black?logo=archlinux&logoColor=blue)
 
 ### i know:
