@@ -12,9 +12,6 @@
 ![](https://img.shields.io/badge/bash-black?logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/batch-black?logo=windows&logoColor=blue)
 
-![](https://komarev.com/ghpvc/?username=hexa69&color=blueviolet)<br>
-
 [![](https://lanyard-profile-readme.vercel.app/api/885893807235809280)](https://discord.com/users/885893807235809280)
-
-[![](https://discord.c99.nl/widget/theme-4/885893807235809280.png)](https://discord.com/users/885893807235809280)
+![](https://komarev.com/ghpvc/?username=hexa69&color=blueviolet)<br>
 
