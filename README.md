@@ -1,5 +1,6 @@
 ## hi! im hexa. 
-![](https://img.shields.io/badge/boy-he/him/his-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/boy-black?style=for-the-badge)
+![](https://img.shields.io/badge/he/him/his-blueviolet?style=for-the-badge)
 [![](https://img.shields.io/badge/website-black?logo=internetexplorer&logoColor=blueviolet&style=for-the-badge)](https://hexiaq.cf)
 
 ### i like:
