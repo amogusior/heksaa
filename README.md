@@ -1,4 +1,4 @@
-## hi! im ![hexa](https://hexiaq.cf) ![](https://img.shields.io/badge/arch-btw-blue?logo=archlinux&logoColor=blue)
+## hi! im ![hexa](https://hexiaq.cf)
 ### i like:
 ![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
 ![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
@@ -14,5 +14,5 @@
 ### discord:
 [![](https://lanyard-profile-readme.vercel.app/api/885893807235809280)](https://discord.com/users/885893807235809280)
 
-![](https://komarev.com/ghpvc/?username=hexa69&color=blueviolet)<br>
+![](https://komarev.com/ghpvc/?username=hexa69&color=blueviolet)![](https://img.shields.io/badge/arch-btw-blue?logo=archlinux&logoColor=blue)
 
