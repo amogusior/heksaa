@@ -27,5 +27,7 @@
 ### discord:
 [![](https://lanyard-profile-readme.vercel.app/api/885893807235809280)](https://discord.com/users/885893807235809280)
 
+<img src="https://raw.githubusercontent.com/heksaa/heksaa/main/pasek.png" width="100%">
+
 ![](https://komarev.com/ghpvc/?username=hexa69&color=blueviolet) ![](https://img.shields.io/badge/arch-btw-blue?logo=archlinux&logoColor=blue)
 
