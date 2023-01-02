@@ -1,4 +1,7 @@
-## hi! im <b>hexa</b> [![](https://img.shields.io/badge/website-black?logo=internetexplorer&logoColor=blueviolet&style=for-the-badge)](https://hexiaq.cf)
+## hi! im hexa. 
+![](https://img.shields.io/badge/boy-he/him/his-blueviolet?style=for-the-badge)
+[![](https://img.shields.io/badge/website-black?logo=internetexplorer&logoColor=blueviolet&style=for-the-badge)](https://hexiaq.cf)
+
 ### i like:
 ![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
 ![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
