@@ -1,4 +1,4 @@
-## hi! im ![hexa](https://hexiaq.cf)
+## hi! im <b>hexa</b>
 ### i like:
 ![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red)
 ![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue)
