@@ -1,4 +1,4 @@
-## hi! im hexa. 
+# hi! im hexa
 
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/separator.png" width="100%">
 
