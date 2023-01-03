@@ -17,15 +17,15 @@
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/separator.png" width="100%">
 
 ### i know:
-![](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=orange&style=for-the-badge)
-![](https://img.shields.io/badge/JavaScript_Basics-black?logo=javascript&logoColor=yellow&style=for-the-badge)
-![](https://img.shields.io/badge/-HTML-black?logo=html5&logoColor=blue&style=for-the-badge)
-![](https://img.shields.io/badge/bash-black?logo=gnubash&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/batch-black?logo=windows&logoColor=blue&style=for-the-badge)
-![](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode&logoColor=blue&style=for-the-badge)
-![](https://img.shields.io/badge/Sublime_Text-black?logo=sublimetext&logoColor=orange&style=for-the-badge)
-![](https://img.shields.io/badge/Vim-black?logo=vim&logoColor=green&style=for-the-badge)
-![](https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop&logoColor=blue&style=for-the-badge)
+![](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/JavaScript_Basics-black?logo=javascript&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/-HTML-black?logo=html5&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/bash-black?logo=gnubash&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/batch-black?logo=windows&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/Sublime_Text-black?logo=sublimetext&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/Vim-black?logo=vim&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop&logoColor=blueviolet&style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/separator.png" width="100%">
 
