@@ -10,9 +10,9 @@
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/separator.png" width="100%">
 
 ### i like:
-![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=red&style=for-the-badge)
-![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blue&style=for-the-badge)
-![](https://img.shields.io/badge/coding-black?logo=visualstudiocode&logoColor=blue&style=for-the-badge)
+![](https://img.shields.io/badge/drawing-black?logo=krita&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/designing-black?logo=adobephotoshop&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/coding-black?logo=visualstudiocode&logoColor=blueviolet&style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/heksaa/heksaa/main/separator.png" width="100%">
 
