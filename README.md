@@ -18,11 +18,11 @@
 
 ### i know:
 ![](https://img.shields.io/badge/-CSS-black?logo=css3&logoColor=blueviolet&style=for-the-badge)
-![](https://img.shields.io/badge/very_basic_JavaScript_black?logo=javascript&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/-very_basic_JavaScript_black?logo=javascript&logoColor=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/badge/-HTML-black?logo=html5&logoColor=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/badge/bash-black?logo=gnubash&logoColor=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/badge/batch-black?logo=windows&logoColor=blueviolet&style=for-the-badge)
-![](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode&logoColor=blueviolet&style=for-the-badge)
+![](https://img.shields.io/badge/VSCode-black?logo=visualstudiocode&logoColor=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/badge/Sublime_Text-black?logo=sublimetext&logoColor=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/badge/Vim-black?logo=vim&logoColor=blueviolet&style=for-the-badge)
 ![](https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop&logoColor=blueviolet&style=for-the-badge)
